@@ -1,0 +1,49 @@
+body{
+    text-align: center;
+    background-color: rgb(196, 185, 199);
+}
+​
+img{
+    width: 400px;
+}
+​
+#benefits{
+    width: 800px;
+    margin-left: 350px;
+    color: darkviolet;
+    font-size: 20px;
+}
+​
+.steps{
+    width: 800px;
+    text-align: left;
+    margin-left: 540px;
+    color: darkgreen;
+    font-size: 20px;
+}
+​
+li:nth-child(2){
+    color: red;
+}
+​
+li:nth-child(3){
+    color: blue;
+}
+​
+hr{
+    background-color: black;
+}
+Collapse
+
+
+
+
+
+
+Send a message to Riya Raipure
+
+
+
+
+
+
